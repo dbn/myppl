@@ -1,1 +1,0 @@
-define(["jquery","underscore","backbone","model/newsitem"],function(a,b,c,d){var e=c.Collection.extend({model:d,parse:function(a){return a}});return e})
