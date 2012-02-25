@@ -1,0 +1,22 @@
+[
+	{
+		"title":"south london art map",
+		"body":"South London has been bubbling away creatively for the last 10-20 years. Local Artists Damien Hirst and Anthony Gormley started their careers in South London, which was home to the Young British Artists and both Goldsmiths & Camberwell College of Art. This is a user-friendly guide to galleries in South London.",
+		"link":"http://www.southlondonartmap.com/map"
+	},
+	{
+		"title":"Podcast: The knowledge: The art of Vyner Street",
+		"body":"Tucked behind one of east London's busiest streets, just next to Regent's canal, is a thriving centre of the art scene",
+		"link":"http://www.guardian.co.uk/travel/interactive/2009/sep/29/london-art-galleries-vyner-street"
+	},
+	{
+		"title":"Exhibition: Lawrence Abu Hamdan - Aural Contract: The Freedom of Speech Itself",
+		"body":"Showroom 1 February 17 March 2012",
+		"link":"http://www.theshowroom.org/programme.html?id=838"
+	},
+	{
+		"title":"Exhibition: IC-98 - A View From The Other Side -Beaconsfield Gallery",
+		"body":"1 March 14 April 2012 Meticulously drawn, slow-burn cinematic animation by Finnish duo IC-98 with other works from the same series on FlatScreens 1 and 2.",
+		"link":"http://beaconsfield.ltd.uk/about/"
+	}
+]

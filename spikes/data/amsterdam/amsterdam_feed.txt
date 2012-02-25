@@ -1,0 +1,27 @@
+[
+	{
+		"title":"Dutch Art Map",
+		"body":"This website gives you an overview of internationally active Dutch organisations that have an excellent reputation in this field, and extensive global networks.You will find museums, alternative art spaces, magazines, art fairs, cultural events and postgraduate institutions with an international orientation.",
+		"link":"http://www.dutchartmap.nl/amsterdam/"
+	},
+	{
+		"title":"Residency: Call for BijlmAIR 2012 Artist-in-Residence Programme",
+		"body":"15 December - 31 March 2012 For 2012 BijlmAIR invites artists and other cultural producers to live and work temporarily in Amsterdam Southeast. This period can be used for project research or for realisation of a project or work of art, following a relevant proposal made by the applicant. ",
+		"link":"http://www.smba.nl/en/residencies/"
+	},
+	{
+		"title":"Residency: Trans Artists",
+		"body":"15 December - 31 March 2012 Trans Artists is a knowledge centre on artist-in-residence opportunities. Here you can find all about facts, use and value of international artist-in-residence programs as well as other opportunities for artists to stay and work elsewhere 'for art's sake'",
+		"link":"http://www.transartists.org/"
+	},
+	{
+		"title":"Exhibition: Blowback- What the frog eye tells the frog brain or the God that failed, Smart Project Space",
+		"body":"18 Februery - 22 April 2012",
+		"link":"http://www.smartprojectspace.net" 
+	},
+	{
+		"title":"Funding: The Mondriaan Foundation",
+		"body":"The Mondriaan Foundation encourages the appreciation of visual arts, design and the cultural heritage from the Netherlands. Last year, the Mondriaan Foundation supported 754 projects with a total of 16 million euro. 357 international projects in 49 different countries were supported financially with a total amount of 2.6 million euro.",
+		"link":"http://www.mondriaanfoundation.nl/en/" 
+	}
+]

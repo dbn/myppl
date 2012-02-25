@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+    <script src="js/raphael-min.js" type="text/javascript" charset="utf-8"></script>
+    
+    <script type="text/javascript" charset="utf-8">
+       
+         window.onload = function () {
+                var R = Raphael("canvas", 300, 300);
+                /*var attr = {
+                    fill: "#333",
+                    stroke: "#666",
+                    "stroke-width": 1,
+                    "stroke-linejoin": "round"
+                };*/
+                
+                    //btn = document.getElementById("run"),
+                    //cd = document.getElementById("code");
+            var c = R.circle(200, 200, 100);
+            c.attr({fill:"url(img/LuYang.jpg)",width:"100px"});
+         };            
+    </script>
+    
+    <style type="text/css" media="screen">
+        #canvas {
+            height: 300px;
+            left: 50%;
+            margin: -150px 0 0 -300px;
+            position: absolute;
+            top: 50%;
+            width: 600px;
+        }
+        #paper {
+            height: 300px;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 300px;
+        }
+        #nsw, #vic, #wa, #sa, #nt, #qld, #tas {
+            display: none;
+            height: 400px;
+            overflow: auto;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 300px;
+        }
+        h2 {
+            text-align: center;
+        }
+    </style>
+        
+</head>
+<body>
+    <div id="canvas"></div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+*.metadata
+
+*.sln
+*.suo
+
+*.project

@@ -1,0 +1,9 @@
+Display property :http://www.quirksmode.org/css/display.html
+
+http://liquidmedia.ca/blog/2011/01/backbone-js-part-1/
+
+Getting div behave like table:
+http://snook.ca/archives/html_and_css/getting_your_di#examples
+
+CSS 
+http://coding.smashingmagazine.com/2010/04/07/css-specificity-and-inheritance/

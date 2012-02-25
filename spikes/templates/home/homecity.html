@@ -1,0 +1,13 @@
+City view <%= city.get("name") %><br />
+<div>
+    <% artists.each(function(ar){ %>
+        <div style="display:inline">
+            <img src='<%= ar.get("picturePath") %>' />
+            <span> <%= ar.get("name") %> </span>
+        </div>  
+    <% }) %>
+</div> 
+
+
+
+
