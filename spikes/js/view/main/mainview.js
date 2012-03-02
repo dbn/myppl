@@ -107,8 +107,8 @@ function(   $, _, Backbone, MenuCollection,
             
             require([url], function(viewCtor) 
             {
-                var viewInstance = new viewClass();
-                self.views[url] = {instance:viewInstance,viewCtor:viewCtor};
+                var viewInstance = new viewCtor();
+                views[url] = {instance:viewInstance,viewCtor:viewCtor};
                 dfrd.resolve(viewInstance);
             });
            

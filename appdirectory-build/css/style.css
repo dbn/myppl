@@ -1,23 +1,28 @@
-
+﻿
 * {
 	margin: 0;
 }
+
 html, body {
 	height: 100%;
 	font-family: 'Anonymous Pro', sans-serif;
 	line-height:1.1em;
 	font-size:small;
 }
+
 .appcontainer {
 	min-height: 100%;
 	height: auto !important;
 	height: 100%;
 	margin: 0 auto -4em;
 }
+
 .footer, .push {
 	height: 4em;
 }
+
 h1 { line-height: 1.2em }
+
 body {
 	margin:50px 0px; padding:0px;
 	text-align:center;
@@ -35,21 +40,26 @@ body {
 	--background-color:#eee;
 	position:absolute;
 }
+
+
 .blockElement
 {
 	display:block;
 }
+
 .artistInCity, .cityCaption
 {
 	float:left;
 	padding:20px;		
 	text-align:center;
 }
+
 .cityCaption
 {
 	width:70px;
 	height:140px;
 }
+
 .artistImageOvrlay {
 	background-image:url(../img/overlay.png);
 	z-index:2;
@@ -58,10 +68,12 @@ body {
 {
 	z-index:1;
 }
+
 .artIcon 
 {
 	z-index:0;
 }
+
 .artistImageOvrlay , .artIcon , .artPicture 
 {
 	position:absolute;
@@ -70,26 +82,31 @@ body {
 	width:140px;
 	height:140px;
 }
+
 .artistName , .conceptCityName
 {
 	display:block;
 	margin-top:0.5em;
 }
+
 .imgContainer
 {
 	width:140px;
 	height:140px;	
 	position:relative;	
 }
+
 .cityCaption a{text-decoration:none;}
 .cityCaption a:visited {color:#000000;}
 .cityCaption a:hover {color:#000000;font-weight:bold;} 
 .cityCaption a:active {color:#000000;}
+
 .cityName
 {
 	display:block;
 	margin-top:66px;
 }
+
 .cityDetailed
 {
 	width:700px;
@@ -98,6 +115,7 @@ body {
 	left:130px;
 	text-align:left;	
 }
+
 .artistDetailed
 {
 	width:520px;
@@ -105,15 +123,18 @@ body {
 	top:100px;
 	text-align:left;
 }
+
 #title
 {
 	display:inline;
 }
+
 #menu
 {
 	display:inline;
 	margin-left: 241px;
 }
+
 #menu li
 {
 	display: inline;
@@ -122,10 +143,14 @@ body {
 	color:Black;
 	font-weight:normal;
 }
+
+
+
 .invisible
 {
 	display:none;
 }
+
 #logo
 {
 	width:830px;
@@ -137,62 +162,79 @@ body {
 	padding-left: 138px;
 	position:absolute;
 }
+
 .excerpt
 {
 	line-height:1.1em;
 }
+
 .conceptView , .subjectView{
 	padding-left: 127px;
 	padding-top: 20px;
 }
+
 .conceptTblCell
 {
 	padding-right:40px;
 }
+
 .conceptText , .subjectText
 {
 	text-align:left;
 	margin-top:40px;	
 }
+
 .conceptText 
 {
 	width:482px;
 }
+
 .subjectText
 {	
 	width:612px;
 }
+
 .feedCaption
 {
 	margin-top:0.5em;
 }
+
 .feedItemTitle
 {
-	margin-top:0.5em;
+	margin-top:1em;
 }
+
 .feedItemBody
 {
-	margin-top:0.5em;
-	margin-bottom:0.5em;
+	margin-top:0em;
+	margin-bottom:0em;
 }
+
 .feedItemLink
 {
 	margin-top:1em;
 }
+
 a{color:#FF0000;text-decoration:none;}
 a:visited {color:#9C9C9C;}
 a:hover {color:#000000;font-weight:bold;} 
 a:active {color:#000000;}
+
 #menu a{text-decoration:none;}
 #menu a:link {color:#CCCCCC;}   
 #menu a.menuActive:link{color:#000000;font-size:medium;}   
 #menu a:visited {color:#CCCCCC;}  
 #menu a.menuActive:visited{color:#000000;font-size:medium;}   
 #menu a:hover {color:#000000;font-weight:normal;} 
+
+
+
 -.cityDetailed a{color:#FF0000;text-decoration:none;}
 -.cityDetailed a:visited {color:#9C9C9C;}
 -.cityDetailed a:hover {color:#000000;font-weight:bold;} 
 -.cityDetailed a:active {color:#000000;}
+
+
 .contactsView
 {
 	margin-top:100px;

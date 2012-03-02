@@ -26,10 +26,7 @@ function(_, Backbone , NewsFeedCollection)
         },
                 
         initialize: function()
-        {
-            var arr = this.get("artists");
-            this.set("artists",new Backbone.Collection(arr));
-            
+        {            
             var excFilePath = this.getPath() + "/" + this.get("excerptFile");
             this.newsfeed = new NewsFeedCollection();
             this.newsfeed.url = excFilePath.toLowerCase();
